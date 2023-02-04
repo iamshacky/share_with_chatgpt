@@ -100,7 +100,7 @@ echo 'asdfasdfasdfasf';
 
 
 
-
+<script src="markdown_parser_code.js"></script>
 
 
 <?php include($zz_coding_tools_basic_docs_footer);?>
