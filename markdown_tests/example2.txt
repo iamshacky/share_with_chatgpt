@@ -1,7 +1,0 @@
-
-
-# This is example2.txt
-## Here is an h2 
-### Here is an h3
-alrighty 
-then
